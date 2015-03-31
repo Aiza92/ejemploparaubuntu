@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1427833513 source:/home/aiza/Escritorio/Proyecto2_201122841/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

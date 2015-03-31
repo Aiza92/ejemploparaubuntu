@@ -1,0 +1,9 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+//altura
+int altura = 0;
+typedef struct Nume{ // estructra de nodo Numero pero para listasimple para metodo burbuja
+    int Num;
+    struct Nume *Siguiente;
+}Nume;
